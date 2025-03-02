@@ -1,0 +1,14 @@
+h1 {
+    text-align:center;
+    color:black;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    position: absolute;
+    left:50%;
+    transform: translateX(-50%);
+}
