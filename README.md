@@ -2,7 +2,7 @@
 
 A very simple and stylish Random Quote Generator that fetches quotes from the [Quotable API](https://quotable.io/) and displays them with smooth animations and a **glassmorphism** UI design.
 
-📌 *This is a beginner-friendly practice project to improve JavaScript skills, work with APIs, and experiment with modern CSS design techniques.*
+📌 *This is a beginner-friendly practice project focused on improving JavaScript skills, working with APIs, and experimenting with modern CSS design techniques.*
 
 ## 🚀 Features
 - 📜 Fetches real-time quotes from an API
