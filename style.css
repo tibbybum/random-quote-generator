@@ -1,13 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Roboto", sans-serif;
 }
 
 /* Body Styling */
 body {
     background-color: #3d3a4b;
+    font-family: 'Poppins', sans-serif;
     color: #fff;
     display: flex;
     flex-direction: column;
@@ -20,7 +23,7 @@ body {
 
 /* Heading */
 h1 {
-    font-size: 3em;
+    font-size: 5em;
     margin-bottom: 2rem;
     animation: floatTitle 3s infinite alternate ease-in-out;
 }
@@ -39,6 +42,7 @@ p {
     align-items: center;
     justify-content: center;
     padding: 2rem;
+    margin-top:2rem;
     border-radius: 15px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
     border: 1px solid rgba(255, 255, 255, 0.3);
@@ -57,15 +61,15 @@ p {
 
 /* Quote Styling */
 h2 {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     color: white;
-    margin-bottom: 0.5rem;
+    margin-bottom: 2rem;
     text-align: center;
     max-width: 90%;
 }
 
 h3 {
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: white;
     text-align: center;
     font-style: italic;
